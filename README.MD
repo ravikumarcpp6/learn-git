@@ -11,3 +11,7 @@ This is the first commit from main branch
 * developing still
 * now development completed
 * rebase completed
+
+### Squash
+
+* started development
