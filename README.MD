@@ -19,7 +19,10 @@ This is the first commit from main branch
 * still adding more code
 * now squash is completed
 
-### Developer
+### CONFLICT
 
 * Developer 2 created this code
 * again developer 2 pushed some code
+* iam developer2, adding some features
+* IAM ADDING ONE MORE LINE OF CODE
+
