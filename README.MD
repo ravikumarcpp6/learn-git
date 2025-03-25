@@ -18,3 +18,7 @@ This is the first commit from main branch
 * adding more code
 * still adding more code
 * now squash is completed
+
+### conflict
+
+* Developer 1 created this code
