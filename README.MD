@@ -21,8 +21,9 @@ This is the first commit from main branch
 
 ### CONFLICT
 
-* Developer 2 created this code
-* again developer 2 pushed some code
+* Developer 1 created this code
+* again developer 1 pushed some code
+* some code has updated
 * iam developer2, adding some features
 * IAM ADDING ONE MORE LINE OF CODE
 
