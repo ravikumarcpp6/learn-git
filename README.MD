@@ -18,3 +18,7 @@ This is the first commit from main branch
 * adding more code
 * still adding more code
 * now squash is completed
+
+### developer-2
+
+* iam developer2, adding some features
